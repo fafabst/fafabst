@@ -1,0 +1,101 @@
+{
+    "pottery": {
+        "status": "success",
+        "newArrival": [
+            {
+                "id": 1,
+                "name": "Bowl",
+                "price": 20,
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrRRSUrklZAyLie0pJGS88vCK_yIt_b81yw&s"
+            },
+            {
+                "id": 2,
+                "name": "Cup",
+                "price": 15,
+                "image": "https://www.sheldonceramics.com/cdn/shop/products/lattemug_hero_600x600.jpg?v=1559004882"
+            },
+            {
+                "id": 3,
+                "name": "Plate",
+                "price": 25,
+                "image": "https://images.squarespace-cdn.com/content/530557e9e4b0993526ea501a/1678210584698-5YY7JBWBV7QJ1DONYGS1/IMG_2853_jpg.jpg?format=1500w&content-type=image%2Fjpeg"
+            },
+            {
+                "id": 4,
+                "name": "Mug",
+                "price": 30,
+                "image": "https://koskela.com.au/cdn/shop/collections/Mugs.jpg?v=1663136951"
+            },
+            {
+                "id": 5,
+                "name": "Vase",
+                "price": 35,
+                "image": "https://m.media-amazon.com/images/I/91OFkMlTkPL._AC_UF894,1000_QL80_.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Teapot",
+                "price": 40,
+                "image": "https://eco-cha.com/cdn/shop/products/Clay_Teapot_Lifestyle_01_-_1080px_1080x1080.jpg?v=1577463470"
+            },
+            {
+                "id": 7,
+                "name": "Jar",
+                "price": 45,
+                "image": "https://miahdecor.com/wp-content/uploads/2021/12/MD-602-1.jpg"
+            },
+            {
+                "id": 8,
+                "name": "Candle Holder",
+                "price": 50,
+                "image": "https://assets.bigcartel.com/product_images/330053832/Untitled+design+_97_.png?auto=format&fit=max&w=650"
+            },
+            {
+                "id": 9,
+                "name": "Sculpture",
+                "price": 55,
+                "image": "https://cdn01.pinkoi.com/product/8cVTDFJs/0/1/640x530.jpg"
+            },
+            {
+                "id": 10,
+                "name": "Decorative",
+                "price": 60,
+                "image": "https://lebanonpostcard.com/wp-content/uploads/2022/11/persian-iranian-bowl-clay-pottery-minakari-enamel-1.jpg"
+            },
+            {
+                "id": 11,
+                "name": "Dish",
+                "price": 165,
+                "image": "https://image.made-in-china.com/2f0j00qCIcDvGUgHkl/Korea-Style-Dinnerware-Sets-Round-Ceramic-Shallow-Dish-and-Deep-Dish-Pottery-Grass-Green-Gray-Glaze-Restaurant-Food-Crockery-Saucer-Dinner-Plate.webp"
+            },
+            {
+                "id": 12,
+                "name": "Bottle",
+                "price": 35,
+                "image": "https://narchie-s3.s3-eu-west-1.amazonaws.com/1568685e-9708-4e72-b098-0bf1a84217a7/1290x1290/1704180241-439524.jpg"
+            }
+        ],
+        "homeData": [
+            {
+                "id": 1,
+                "name": "New Arrival",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTigYa9B0xlI8QAT3hMKprETHpNPSN8Sw7MKg&s"
+            },
+            {
+                "id": 2,
+                "name": "Set Pottery",
+                "image": "https://i.etsystatic.com/5477623/r/il/0abbd3/3256283147/il_fullxfull.3256283147_6vii.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Single Pottery",
+                "image": "https://absolutelynice.co.uk/cdn/shop/files/VintageSingleStudioPotteryMugbyWatersidePottery_480x.jpg?v=1687544833"
+            },
+            {
+                "id": 4,
+                "name": "Sales",
+                "image": "https://cccadvocate.com/wp-content/uploads/2015/12/Pottery-Online-900x600.jpg"
+            }
+        ]
+    }
+}
