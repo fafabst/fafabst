@@ -1,0 +1,38 @@
+.homeWrapped {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    justify-content: space-around;
+    align-content: stretch;
+    color: #bbb8b8;
+    background-color: #282c34;
+
+}
+
+.cardWrapped:hover {
+    background-color: #464b57;
+}
+
+.cardBodyWrapped {
+    margin-left: 100px;
+    /* margin-right: auto; */
+    /* margin-top: 50px; */
+    width: 360px;
+    padding: 0px;
+    border-radius: 10px;
+    box-shadow: #bbb8b8 0px 0px 10px 0px;
+    background-color: #282c34;
+}
+
+.cardWrapped {
+    /* margin-top: 50px; */
+    /* margin-bottom: 20px; */
+    margin-left: 60px;
+    /* margin-right: auto; */
+    width: 620px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: #bbb8b8 0px 0px 10px 0px;
+    background-color: #282c34;
+    color: #bbb8b8;
+}

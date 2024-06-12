@@ -1,6 +1,6 @@
 {
     "pottery": {
-        "status": "success",
+        "status": true,
         "newArrival": [
             {
                 "id": 1,
